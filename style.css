@@ -1,9 +1,10 @@
-.flex-container {
+.caixa {
     display: flex;
-    background-color: DodgerBlue;
+    background-color: rgb(0, 0, 0);
+    flex-direction: row;
   }
   
-  .flex-container > div {
+  .caixa > div {
     background-color: #f1f1f1;
     margin: 10px;
     padding: 20px;
